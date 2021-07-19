@@ -1,0 +1,2 @@
+# principio
+inicio de tudo
